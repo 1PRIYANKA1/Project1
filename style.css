@@ -1440,7 +1440,12 @@ input{
     font-size: 25px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bolder;
-    text-decoration: underline;
+  
+}
+
+#category li a:hover,
+#category li a.active{
+  color:#67e1fa;
 }
 
 
